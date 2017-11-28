@@ -4,4 +4,3 @@ new awesome feature
 Der mange noget text her
 new commit!
 forgot this stuff
-This needs to be reverted
