@@ -1,2 +1,0 @@
-# TeamOne
-The best team!
